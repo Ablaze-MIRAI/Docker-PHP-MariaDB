@@ -16,6 +16,8 @@ docker compose up #コンテナの起動
 
 ![image](https://user-images.githubusercontent.com/67790884/166112705-44b330f7-5eb6-46b5-af9a-af0b89244de5.png)
 
+3. `index.php`を削除して`src`内にスクリプトを入れる
+
 ## Description
 
 PHP(Apache)が `3000`, MariaDBが `3306` で起動します
