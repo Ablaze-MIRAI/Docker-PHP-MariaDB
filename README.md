@@ -22,10 +22,12 @@ PHP(Apache)が `3000`, MariaDBが `3306` で起動します
 
 ### MariaDB設定情報
 
+Database Address: `database`
+
 Database Name: `docker`
 
 User Name: `docker`
 
 User Pass: `docker`
 
-Root Pass: `docker`
+Root Pass: `root`
