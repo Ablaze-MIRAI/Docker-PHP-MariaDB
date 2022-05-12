@@ -34,7 +34,6 @@ try {
             URL.revokeObjectURL(link.href);
             return;
         }
-
     </script>
 </body>
 </html>
